@@ -7,7 +7,7 @@ public class Project05 {
 
         int[] array1 = {10, 7, 7, 10, -3, 10, -3};
         int[] array2 = {10, 5, 6, 7, 8, 5, 15, 15};
-        String[] words1 = {"foo", "bar", "Foo", "bar", "6", "abc", "6", "xyz"};
+        String[] words1 = {"foo", "bar", "Foo", "bar", "6", "abc", "6", "xyz", "bar"};
         String[] words2 = {"pen", "eraser", "pencil", "pen", "123", "abc", "pen", "eraser"};
         findGreatestAndSmallestWithSort(array1);
         findGreatestAndSmallest(array1);
